@@ -1,4 +1,4 @@
-The assignments I had to work on while studying Java.
+The final assignment I had to present while studying Java.
 
 Programs I used:
   - Java
